@@ -175,7 +175,7 @@ public class Ui {
         dynamicChoiceButton1.setActionCommand("1");
         dynamicChoiceButton1.setFont(normalFont);
         dynamicChoiceButton1.setForeground(Color.black);
-        dynamicChoiceButton1.setBackground(Color.black);
+        dynamicChoiceButton1.setBackground(Color.white);
         statsChoicePanel.add(dynamicChoiceButton1);
 
         dynamicChoiceButton2 = new JButton("");
@@ -183,7 +183,7 @@ public class Ui {
         dynamicChoiceButton2.setActionCommand("2");
         dynamicChoiceButton2.setFont(normalFont);
         dynamicChoiceButton2.setForeground(Color.black);
-        dynamicChoiceButton2.setBackground(Color.black);
+        dynamicChoiceButton2.setBackground(Color.white);
         statsChoicePanel.add(dynamicChoiceButton2);
 
         finalScreenPanel = new JPanel();
